@@ -1,5 +1,7 @@
 # SmartFarmer - IoT Enabled Smart Farming Application
 
+![image2](https://user-images.githubusercontent.com/113254856/192786370-6f2eab89-acfb-444b-b009-0882c2d996a7.jpeg)
+
    IoT-based agriculture system helps the farmer in
 monitoring different parameters of his field like
 soil moisture, temperature, and humidity using 

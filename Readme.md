@@ -17,4 +17,5 @@
 
 # Technical Architecture: 
 
-![Smart_agriculture](/home/nothing/Desktop/Smart_agriculture.png)
+![Smart_agriculture](https://user-images.githubusercontent.com/113254856/192781678-cdb486f8-c497-427b-864d-b76ee2481e1f.png)
+
